@@ -1,4 +1,4 @@
-# assignment_01
+# Modern UI - Assignment
 
 A new Flutter project.
 
