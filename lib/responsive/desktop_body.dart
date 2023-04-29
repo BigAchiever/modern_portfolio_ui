@@ -2,8 +2,6 @@ import 'package:assignment_01/widgets/reusable_container.dart';
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'package:assignment_01/theme/theme.dart';
-import 'package:getwidget/getwidget.dart';
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class DesktopBody extends StatelessWidget {
   const DesktopBody({super.key});
