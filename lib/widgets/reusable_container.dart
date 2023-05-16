@@ -1,6 +1,6 @@
 import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
-import 'package:assignment_01/theme/theme.dart';
+
 
 class ReusedContainer extends StatelessWidget {
   final Color color;
@@ -22,7 +22,6 @@ class ReusedContainer extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final Size size = MediaQuery.of(context).size;
     return Container(
       width: width,
       height: height,

@@ -9,7 +9,6 @@ class MobileBody extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final scrollController = ScrollController();
     final Size size = MediaQuery.of(context).size;
     var commonSpacingHeight = SizedBox(
       height: size.height / 80,
